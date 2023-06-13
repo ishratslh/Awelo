@@ -1,6 +1,5 @@
 # Awelo
-
-# Description
+![alt text](https://www.eothello.com/images/how_to_play_othello_0.png)
 ## Description
 Awelo est un projet basé sur la résolution de jeux (Awele/Othello).
 
